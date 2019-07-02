@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--频道成员详情 padding大小-->
+    <dimen name="channel_member_padding">5dp</dimen>
+    <dimen name="text_sizt_contact">20dp</dimen>
+    <!--弹窗宽度-->
+    <dimen name="text_size_small2">15dp</dimen>
+    <dimen name="row_height">40dp</dimen>
+    <dimen name="padding_left_right">15dp</dimen>
+    <dimen name="popup_width">125dp</dimen>
+    <dimen name="corner_radius">10dp</dimen>
+    <!--弹窗的margin-->
+    <dimen name="popup_margin">4dp</dimen>
+    <!--设置弹窗提示栏的高度-->
+    <dimen name="popup_setting">50dp</dimen>
+
+    <!--账号密码输入框高度-->
+    <dimen name="acc_pass_height">40dp</dimen>
+
+    <!--提示音量-->
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_25">25dp</dimen>
+</resources>
